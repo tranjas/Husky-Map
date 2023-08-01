@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>addAll</Name>
+    <Signature>(Ljava/util/Collection;)V</Signature>
+    <DeclaringType>autocomplete.TernarySearchTreeAutocomplete</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>200</X>
+      <Y>140</Y>
+      <W>263</W>
+      <H>193</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local` overallRoot</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Embedded>false</Embedded>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>720</W>
+    <H>450</H>
+  </Size>
+  <ESize>
+    <W>720</W>
+    <H>450</H>
+  </ESize>
+</Canvas>
